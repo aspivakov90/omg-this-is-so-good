@@ -9,7 +9,6 @@ import "bootstrap/dist/css/bootstrap.min.css"
 import "react-quill/dist/quill.snow.css"
 /* Add css for simplicity, in the real world I would use any CSS-in-JS, SCSS, styled-components, other utility css, etc */
 import "./style.css"
-
 import DnDProvider from "./components/SortableList/DnDProvider"
 import ProductForm from "./components/ProductForm"
 
